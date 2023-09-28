@@ -3,13 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh1997" alt="saurabh1997" /></a> </p>
 
-- 🔭 I’m currently working in deloitte as a full stack developer. **ESG**
+- 🔭 I’m currently working in deloitte as a full stack developer. 
 
 - 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saurabh1997](https://github.com/Saurabh1997)
 
 - 💬 Ask me about **ReactJS, NodeJS, MongoDB, SQL, Kubernetes, Docker**
+
+- Leetcode profile : https://leetcode.com/patilsaurabh/
+
+- Hackerrank profile : https://www.hackerrank.com/patilsaurabh_201  
 
 - 📫 How to reach me **patilsaurabh.2013@gmail.com**
 
