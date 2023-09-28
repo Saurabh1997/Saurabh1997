@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh1997" alt="saurabh1997" /></a> </p>
 
-- 🔭 I’m currently working in deloitte as a full stack developer. 
+- 🔭 I’m currently working in Deloitte as a full stack developer. 
 
 - 🌱 I’m currently learning **Blockchain**
 
