@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in Deloitte as a full stack developer. 
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **NextJS**, **GraphQL** and **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saurabh1997](https://github.com/Saurabh1997)
 
