@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Patil</h1>
-<h3 align="center">An Enthusiastic Full stack developer</h3>
+<h3 align="center">Full stack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh1997" alt="saurabh1997" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS**, **GraphQL** and **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Saurabh1997](https://github.com/Saurabh1997)
+- 👨‍💻 All of my projects are available at [[https://github.com/Saurabh1997](https://github.com/Saurabh1997?tab=repositories)]
 
 - 💬 Ask me about **ReactJS, NodeJS, MongoDB, SQL, Kubernetes, Docker**
 
