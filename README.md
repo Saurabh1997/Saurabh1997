@@ -1,3 +1,5 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 <h1 align="center">Hi 👋, I'm Saurabh Patil</h1>
 <h3 align="center">Full stack developer</h3>
 
@@ -32,3 +34,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh1997&show_icons=true&locale=en&layout=donut&hide=html,ejs,css,php" alt="saurabh1997" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh1997&show_icons=true&locale=en" alt="saurabh1997" /></p>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh1997&theme=holi"/>
+<br />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyrus21&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact"/> -->
+<br/>
